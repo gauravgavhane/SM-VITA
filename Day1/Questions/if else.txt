@@ -1,0 +1,94 @@
+Java Assignment: if–else Practice Questions
+1.
+Write a Java program to check whether a given number is positive, negative, or zero.
+<
+>
+==
+
+2.
+Write a Java program to check whether a given number is even or odd.
+%
+
+3.
+Write a Java program to check whether a person is eligible to vote (age ≥ 18).
+
+4.
+Write a Java program to check whether a given number is divisible by 5.
+
+5.
+Write a Java program to check whether a given year is a leap year.
+
+6.
+Write a Java program to find the greater of two numbers.
+
+7.
+Write a Java program to find the smallest of two numbers.
+
+8.
+Write a Java program to find the greatest of three numbers using if–else.
+
+9.
+Write a Java program to check whether a given number is a 3-digit number.
+[If the number is ≥ 100 and ≤ 999
+OR the number is >-100 and ≥ -999
+then it is a 3-digit number.]
+
+
+10.
+Write a Java program to check whether a given character is a vowel or consonant.
+
+11.
+Write a Java program to assign grade based on marks:
+    • Marks ≥ 90 → Grade A
+    • Marks ≥ 75 → Grade B
+    • Marks ≥ 60 → Grade C
+    • Marks < 60 → Fail
+
+12.
+Write a Java program to calculate the electricity bill based on units consumed:
+    • Up to 100 units → ₹1/unit
+    • 101–200 units → ₹2/unit
+    • Above 200 units → ₹3/unit
+
+13.
+Write a Java program to calculate bonus based on salary:
+    • Salary ≥ 50,000 → 10% bonus
+    • Salary < 50,000 → 5% bonus
+
+14.
+Write a Java program to check whether a person is a Child, Adult, or Senior Citizen based on age.
+
+15.
+Write a Java program to validate a bank withdrawal:
+    • If withdrawal amount is greater than balance → print “Insufficient balance”
+    • Otherwise → print “Transaction successful”
+
+16.
+Write a Java program to check whether a given number is divisible by both 3 and 5.
+
+17.
+Write a Java program to check whether a triangle is valid based on the given sides.
+[ A triangle is valid if all three conditions are true:
+a + b > c
+a + c > b
+b + c > a
+]
+
+18.
+Write a Java program to validate login credentials using predefined username and password.
+
+19.
+Write a Java program to find the absolute value of a number without using Math.abs().
+[ If the number is negative, make it positive by multiplying with -1
+ If the number is positive or zero, keep it as it is
+]
+
+20.
+Write a Java program to check whether a given number lies between 10 and 50 (inclusive).
+
+21.
+Write a Java program to check whether a given character is:
+    • Uppercase letter >=65 && <=90
+    • Lowercase letter  >=97 && <=122
+    • Digit  [ 48–57 → 0–9 (Digits) ]
+    • Special character
